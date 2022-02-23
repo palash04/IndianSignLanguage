@@ -1,6 +1,6 @@
 # Word Level Sentence Generation using Deep Learning for Indian Sign Language
 
-Indian Sign Language is a part of my Masters Project done under the guidance of Dr. Rathna G N.
+This project belongs to my Master's major work guided by professor Dr. Rathna G N.
 
 #### -- Project Timeline: [August 2021] - Present
 

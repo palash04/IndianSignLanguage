@@ -2,7 +2,7 @@
 
 This project belongs to my Master's major work guided by professor Dr. Rathna G N.
 
-#### -- Project Timeline: [August 2021] - Present
+#### -- Project Timeline: [August 2021] - [June 2022]
 
 ## Abstract
 Indian Sign Language refers to the language used by the speech impaired (deaf-dumb) population to communicate in the Indian Subcontinent. However, it becomes difficult for the general population to communicate well with the speech-impaired population primarily due to a lack of knowledge of sign language. So to bridge this gap of communication between the general and the speech-impaired people, in this project work, we have tried to recognize the Indian Sign Language word-by-word and thereby generate entire sentences. This project has focused on one-way communication, where the general people can understand speech impaired people with the help of our state-of-the-art models. We have attempted a three-step approach. In the first step, key points extraction of face, pose, left hand, and right hand is done from the video frames. Then in the second step, the extracted key points are given to the deep learning model such as LSTM or Transformer's Encoder to recognize which sign language (i.e., word) the key points belong. And in the final step, the recognized words are appended to the list to generate the desired sentence.
